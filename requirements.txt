@@ -8,3 +8,5 @@ tensorboard
 streamlit
 plotly
 ipykernel
+streamlit>=1.25
+altair>=5,<6
