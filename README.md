@@ -16,6 +16,12 @@ streamlit run app.py
 
 That's it! You're ready to make predictions.
 
+## 🌐 Live Demo
+
+**Try it online:** https://customer-churn-predict-system.streamlit.app/
+
+No installation needed! Start making predictions instantly.
+
 ## ✨ What This Does
 
 - **Predict Churn Risk**: Get instant churn probability (0-100%)
