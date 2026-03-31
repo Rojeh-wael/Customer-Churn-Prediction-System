@@ -44,8 +44,6 @@ env/
 # TensorFlow & ML
 logs/**/*
 !logs/.gitkeep
-*.h5
-*.pkl
 events.out.tfevents.*
 
 # Streamlit
